@@ -4,9 +4,9 @@
 
 O artigo do grupo do professor Stefan Grimme nos mostra que a pressão de vapor de um composto pode ser calculada com a equação de Ben-Naimm.  
 
-$$
+$
 \begin{equation} P=\frac{R\times T\times \rho_{liq}}{MW}\times exp\left(\frac{1}{R\times T}\times(\overline{G^*}_{liq}-\overline{G^*}_{vap})\right) \end{equation} 
-$$
+$
 
 Onde:
 
